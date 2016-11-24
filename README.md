@@ -1,15 +1,15 @@
 # Supported tags and respective `Dockerfile` links
 
--       [`1.0-sdk-projectjson` (*1.0/debian/sdk/projectjson/Dockerfile*)](https://github.com/cvallance/dotnetandmono-docker/blob/master/1.0/debian/sdk/projectjson/Dockerfile)
--       [`1.0-sdk-msbuild` (*1.0/debian/sdk/msbuild/Dockerfile*)](https://github.com/cvallance/dotnetandmono-docker/blob/master/1.0/debian/sdk/msbuild/Dockerfile)
--       [`1.1-sdk-projectjson` (*1.1/debian/sdk/projectjson/Dockerfile*)](https://github.com/cvallance/dotnetandmono-docker/blob/master/1.1/debian/sdk/projectjson/Dockerfile)
--       [`1.1-sdk-msbuild` (*1.1/debian/sdk/msbuild/Dockerfile*)](https://github.com/cvallance/dotnetandmono-docker/blob/master/1.1/debian/sdk/msbuild/Dockerfile)
+- [`1.0-sdk-projectjson` (*1.0/debian/sdk/projectjson/Dockerfile*)](https://github.com/cvallance/dotnetandmono-docker/blob/master/1.0/debian/sdk/projectjson/Dockerfile)
+- [`1.0-sdk-msbuild` (*1.0/debian/sdk/msbuild/Dockerfile*)](https://github.com/cvallance/dotnetandmono-docker/blob/master/1.0/debian/sdk/msbuild/Dockerfile)
+- [`1.1-sdk-projectjson` (*1.1/debian/sdk/projectjson/Dockerfile*)](https://github.com/cvallance/dotnetandmono-docker/blob/master/1.1/debian/sdk/projectjson/Dockerfile)
+- [`1.1-sdk-msbuild` (*1.1/debian/sdk/msbuild/Dockerfile*)](https://github.com/cvallance/dotnetandmono-docker/blob/master/1.1/debian/sdk/msbuild/Dockerfile)
 
 # About
 
-This is a simple repo to extend the offical (microsoft/dotnet)[https://hub.docker.com/r/microsoft/dotnet/] docker images with mono.
+This is a simple repo to extend the offical [microsoft/dotnet](https://hub.docker.com/r/microsoft/dotnet/) docker images with mono.
 
-It uses the installation method outlined on (Install Mono on Linux)[http://www.mono-project.com/docs/getting-started/install/linux/]. You can view the docker files in the repo but
+It uses the installation method outlined on [Install Mono on Linux](http://www.mono-project.com/docs/getting-started/install/linux/). You can view the docker files in the repo but
 specifically it has the following line:
 
 ```
