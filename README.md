@@ -4,6 +4,7 @@
 - [`1.0-sdk-msbuild` (*1.0/debian/sdk/msbuild/Dockerfile*)](https://github.com/cvallance/dotnetandmono-docker/blob/master/1.0/debian/sdk/msbuild/Dockerfile)
 - [`1.1-sdk-projectjson` (*1.1/debian/sdk/projectjson/Dockerfile*)](https://github.com/cvallance/dotnetandmono-docker/blob/master/1.1/debian/sdk/projectjson/Dockerfile)
 - [`1.1-sdk-msbuild` (*1.1/debian/sdk/msbuild/Dockerfile*)](https://github.com/cvallance/dotnetandmono-docker/blob/master/1.1/debian/sdk/msbuild/Dockerfile)
+- [`latest` (*Dockerfile*)](https://github.com/cvallance/dotnetandmono-docker/blob/Dockerfile)
 
 # About
  
